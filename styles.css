@@ -1,0 +1,273 @@
+#body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    width: auto;
+}
+
+.logoNav {
+    width: 20%;
+    height: 20%;
+}
+
+.menuNav {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    width: auto;
+}
+
+.ulList {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+.liList {
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+    font-size: 30px;
+}
+
+.partyHand {
+    display: flex;
+    flex-direction: column;
+}
+
+.hMusic {
+    position: absolute;
+    text-align: center;
+    margin-top: 365px;
+    margin-left: 355px;
+    color: white;
+    font-size: 97px;
+}
+
+.pMusic {
+    position: absolute;
+    text-align: center;
+    margin-top: 505px;
+    margin-left: 385px;
+    color: white;
+    font-size: 38px;
+}
+
+.boxSpotify {
+    position: relative;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    text-decoration-color: green;
+
+}
+
+.Spoti {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+    margin-right: 45px;
+    margin-bottom: 90px;
+    margin-left: 45px;
+    font-size: 45px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.Spoti ins {
+
+    border-bottom: 4px solid green;
+    padding-bottom: 5px;
+    text-decoration: none;
+
+}
+
+.optionSpotify {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 40px;
+    margin-right: 45px;
+    margin-bottom: 90px;
+    margin-left: 45px;
+
+}
+
+.soundMusic {
+    display: flex;
+    flex-direction: column;
+    border: 5px green solid;
+    margin-top: 0px;
+    width: 30%;
+    height: 320px;
+}
+
+.greatSound {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin-left: 120px;
+    width: 200px;
+    height: auto;
+}
+
+.hSound {
+    color: green;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 170px;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.pSound {
+    color: #4C4C4C;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 210px;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.KanyeWest {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #1AB26B;
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: center;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+.KanyeWest ins {
+    border-bottom: 4px solid white;
+    padding-bottom: 5px;
+    text-decoration: none;
+}
+
+.kanye {
+    display: flex;
+    flex-direction: column;
+    height: 950px;
+    position: relative;
+}
+
+.h3Kanye1 {
+    display: flex;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: -600px;
+    font-size: 50px;
+    color: white
+}
+
+.h1Kanye1 {
+    display: flex;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: -600px;
+    font-size: 40px;
+    color: white
+}
+
+.pKanye1 {
+    display: flex;
+    position: absolute;
+    margin-top: 330px;
+    margin-left: -600px;
+    font-size: 30px;
+    color: white
+}
+
+.h1Kanye2 {
+    display: flex;
+    position: absolute;
+    margin-top: 450px;
+    margin-left: -600px;
+    font-size: 40px;
+    color: white
+}
+
+.pKanye2 {
+    display: flex;
+    position: absolute;
+    margin-top: 530px;
+    margin-left: -600px;
+    font-size: 30px;
+    color: white
+}
+
+.h1Kanye3 {
+    display: flex;
+    position: absolute;
+    margin-top: 670px;
+    margin-left: -600px;
+    font-size: 40px;
+    color: white
+}
+
+.pKanye3 {
+    display: flex;
+    position: absolute;
+    margin-top: 760px;
+    margin-left: -600px;
+    font-size: 30px;
+    color: white
+}
+
+.logoWhiteSpotify {
+    display: flex;
+    position: absolute;
+    margin-top: 430px;
+    margin-left: -0px;
+    width: 10%;
+    height: 10%;
+}
+
+.h3Kanye {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    color: white;
+}
+
+.h1Kanye {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.pKanye {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.imgKanye {
+    position: absolute;
+    margin-top: 140px;
+    margin-right: -920px;
+    width: 400px;
+    height: 720px;
+}
